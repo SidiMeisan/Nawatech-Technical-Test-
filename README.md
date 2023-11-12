@@ -38,3 +38,5 @@ To evaluate the solution and explore the project, follow these steps:
     http://127.0.0.1:8000/api/
     ```
 
+    Replace http://127.0.0.1:8000 with the URL provided by the Laravel development server if it's different. You can use this URL to interact with the project's API endpoints.
+
